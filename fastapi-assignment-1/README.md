@@ -7,7 +7,7 @@ This is a simple RESTful API built with FastAPI for managing a list of students.
 1. Install FastAPI: `pip install fastapi`
 2. Install Uvicorn (an ASGI server): `pip install uvicorn`
 3. Run the server: `uvicorn assignment1.main:app --reload --port 8080`
-4. Open http://localhost:8000/docs in your browser to view interactive API documentation.
+4. Open http://localhost:8080/docs in your browser to view interactive API documentation.
 You can test the endpoints directly from the browser.
 
 
