@@ -1,7 +1,7 @@
 [tool.poetry]
-name = "todos"
+name = "aasgnmnt1"
 version = "0.1.0"
-description = ""
+description = "first assignment of quater 3"
 authors = ["Emmad-Ahmad-Usmani<em.madi.don@gmail.com>"]
 readme = "README.md""
 
